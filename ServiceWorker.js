@@ -1,9 +1,9 @@
 const cacheName = "TerrorOoze-Cavernas-1.1";
 const contentToCache = [
     "Build/Cavernas_V1.loader.js",
-    "Build/Cavernas_V1.framework.js.gz",
-    "Build/Cavernas_V1.data.gz",
-    "Build/Cavernas_V1.wasm.gz",
+    "Build/Cavernas_V1.framework.js.unityweb",
+    "Build/Cavernas_V1.data.unityweb",
+    "Build/Cavernas_V1.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
